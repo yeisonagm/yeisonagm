@@ -3,13 +3,17 @@
 </h1>
 
 <div align='center'>
-  Estudiante se ingeniería de Sistemas.
+  Estudiante de ingeniería de Sistemas.
 </div>&nbsp;
 
 <div align='center'>
   💻 Mi espacio de trabajo<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  </a>
 </div><br/>
 
 <div align='center'>
@@ -19,7 +23,9 @@
 </div><br/>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeisonagm&show_icons=true&count_private=true&theme=radical" width="420">
+   <a href="#">
+     <img src="https://github-readme-stats.vercel.app/api?username=yeisonagm&show_icons=true&count_private=true&theme=radical" width="420">
+   </a>
 </div><br/>
 
 
